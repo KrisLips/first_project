@@ -1,1 +1,0 @@
-My first personal git project
